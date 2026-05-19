@@ -1,4 +1,4 @@
-# lunar-laser-ranging-analyzer
+# Lunar Laser Ranging Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
